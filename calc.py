@@ -1,5 +1,5 @@
 def plus(a, b):
-    c = a + b
+    c = int(a) + int(b)
     return(c)
 
 x,y = input('Введите 2 числа: ').split()
