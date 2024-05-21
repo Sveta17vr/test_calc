@@ -4,3 +4,4 @@ def plus(a, b):
 
 x,y = input('Введите 2 числа: ').split()
 print(plus(x,y))
+print('тут была света!')
